@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500&family=Roboto:wght@100;300;400;500&display=swap');
+
+
+body {
+  font-family: 'Roboto', sans-serif !important;
+
+}
+
+.navbar{
+  background-color:  rgb(13, 80, 168) !important ;
+}
+
+.logo{
+  width: 200px;
+  height: 200px;
+}
+
+.nav-link{
+  color: white !important;
+}
+
+.principal{
+    height: 100vh;
+    background-image: url(../assets/image/foto\ lamparas.jpg);
+    background-size: cover;
+    max-width: 100%;
+  }
+
+  .principal .sobreNosotros{
+    color: white !important;
+  }  
+  
+  .principal h1{
+    font-size: 4em !important;
+    color:#7eb0f7 !important;
+  }
+
+  #footer-style {
+    background-color: rgb(13, 80, 168) !important;
+     !important;
+    font-weight: 500 !important;
+  }
+  
+  #acyede-footer {
+    color: white !important;
+    font-weight: 500 !important;
+  }
+  
+  #datos-camara{
+    color: white !important;
+    font-weight: 500 !important;
+  }
+
+
+
+  .carousel-inner{
+    width: 50%;
+    margin: auto;
+  }
+
+
